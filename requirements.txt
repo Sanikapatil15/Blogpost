@@ -1,6 +1,2 @@
-asgiref
 django
-Pillow
-sqlparse
-tzdata
 gunicorn
